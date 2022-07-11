@@ -44,3 +44,4 @@ More specifically, among other topics, he have worked on unemployment, active la
 
 * {{< icon name="ideas-repec" pack="ai" >}}[IDEAS](https://ideas.repec.org/e/pus10.html)
 * {{< icon name="researchgate" pack="ai" >}}[ResearchGate](https://www.researchgate.net/profile/Carlos-Usabiaga)
+* {{< icon name="researchgate" pack="ai" >}}[Google Scholar](https://scholar.google.es/citations?user=YS5XdK0AAAAJ&hl=es)
