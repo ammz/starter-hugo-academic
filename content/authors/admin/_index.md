@@ -1,73 +1,33 @@
 ---
-# Display name
 title: Carlos Usabiaga
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
 role: Full Professor of Economics
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Department of Economics, Quantitative Methods and Economic History
-  url: https://www.upo.es/emch/portada
-- name: Pablo de Olavide University
-  url: https://www.upo.es/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include Macroeconomics, Labour Economics, Economic Growth and Regional Economics.
-
-# Interests to show in About widget
+bio: My research interests include Macroeconomics, Labour Economics, Economic
+  Growth and Regional Economics.
 interests:
-- Macroeconomics
-- Labour Economics
-- Regional Economics
-- Economic Growth
-- Spanish and Andalusian economies
-
-# Education to show in About widget
+  - Macroeconomics
+  - Labour Economics
+  - Regional Economics
+  - Economic Growth
+  - Spanish and Andalusian economies
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+organizations:
+  - name: Department of Economics, Quantitative Methods and Economic History
+    url: https://www.upo.es/emch/portada
+  - name: Pablo de Olavide University
+    url: https://www.upo.es/
 education:
   courses:
-  - course: Doctor en Ciencias Económicas y Empresariales
-    institution: Universidad de Sevilla
-    year: 1992
-  - course: Licenciado en Ciencias Económicas y Empresariales
-    institution: Universidad de Sevilla
-    year: 1988
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
-#- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-#  icon_pack: fas
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
-#- icon: linkedin
-#  icon_pack: fab
-#  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: Doctor en Ciencias Económicas y Empresariales
+      institution: Universidad de Sevilla
+      year: 1992
+    - course: Licenciado en Ciencias Económicas y Empresariales
+      institution: Universidad de Sevilla
+      year: 1988
 email: ""
-
-# Highlight the author in author lists? (true/false)
+superuser: true
 highlight_name: true
 ---
 [{{< figure src="upo.png" alt="Universidad Pablo de Olavide" width="200" lightbox="false" >}}](https://www.upo.es)
@@ -76,13 +36,11 @@ Carlos Usabiaga is a Full Professor of Economics at the *Department of Economics
 
 More specifically, among other topics, he have worked on unemployment, active labour market policies, labour reforms, labour matching, matching function, Beveridge curve, economic growth, Okun law, inflation, wages, Phillips curve, Spanish and Andalusian economies, regional economics, macroeconomic thought, economic methodology.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV-breve-mayo-2021.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/2022-Brief-CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/publicaciones-recientes-mayo-2021.pdf" "newtab" >}}recent publications{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/2022-Recent-Publications.pdf" "newtab" >}}recent publications{{< /staticref >}}.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/publicaciones-seleccionadas-mayo-2021.pdf" "newtab" >}}selected publications{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/2022-Selected-Publications.pdf" "newtab" >}}selected publications{{< /staticref >}}.
 
-
-- {{< icon name="ideas-repec" pack="ai" >}}[IDEAS](https://ideas.repec.org/e/pus10.html)
-
-- {{< icon name="researchgate" pack="ai" >}}[ResearchGate](https://www.researchgate.net/profile/Carlos-Usabiaga)
+* {{< icon name="ideas-repec" pack="ai" >}}[IDEAS](https://ideas.repec.org/e/pus10.html)
+* {{< icon name="researchgate" pack="ai" >}}[ResearchGate](https://www.researchgate.net/profile/Carlos-Usabiaga)
