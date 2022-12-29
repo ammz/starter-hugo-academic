@@ -36,11 +36,11 @@ Carlos Usabiaga is a Full Professor of Economics at the *Department of Economics
 
 More specifically, among other topics, he have worked on unemployment, active labour market policies, labour reforms, labour matching, matching function, Beveridge curve, economic growth, Okun law, inflation, wages, Phillips curve, Spanish and Andalusian economies, regional economics, macroeconomic thought, economic methodology.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/2022-Brief-CV.pdf" "newtab" >}}resumé/CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/2022-2-Brief-CV.pdf" "newtab" >}}resumé/CV{{< /staticref >}}.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/2022-Recent-Publications.pdf" "newtab" >}}recent publications{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/2022-2-Recent-Publications.pdf" "newtab" >}}recent publications{{< /staticref >}}.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/2022-Selected-Publications.pdf" "newtab" >}}selected publications{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/2022-2-Selected-Publications.pdf" "newtab" >}}selected publications{{< /staticref >}}.
 
 * {{< icon name="ideas-repec" pack="ai" >}}[IDEAS](https://ideas.repec.org/e/pus10.html)
 * {{< icon name="researchgate" pack="ai" >}}[ResearchGate](https://www.researchgate.net/profile/Carlos-Usabiaga)
