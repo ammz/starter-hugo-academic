@@ -15,7 +15,7 @@ social:
     link: /#contact
 organizations:
   - name: Department of Economics, Quantitative Methods and Economic History
-    url: https://www.upo.es/emch/portada
+    url: https://www.upo.es/departamento-economia-metodos-cuantitativos-e-historia-economica/es/
   - name: Pablo de Olavide University
     url: https://www.upo.es/
 education:
