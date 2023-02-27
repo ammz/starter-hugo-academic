@@ -45,3 +45,17 @@ More specifically, among other topics, he have worked on unemployment, active la
 * {{< icon name="ideas-repec" pack="ai" >}}[IDEAS](https://ideas.repec.org/e/pus10.html)
 * {{< icon name="researchgate" pack="ai" >}}[ResearchGate](https://www.researchgate.net/profile/Carlos-Usabiaga)
 * {{< icon name="google-scholar" pack="ai" >}}[Google Scholar](https://scholar.google.es/citations?user=YS5XdK0AAAAJ&hl=es)
+
+{{< icon name="pen-nib" pack="fas" >}}[Blog de Economía de la Aldea Global (bAg). Asociación Libre de Economía (ALdE)](http://alde.es/blog/)
+</div></div>
+<div class="row">
+<div class="col-12">
+<div class="col-md-12">
+<h3>Teaching</h3>
+<ul class="ul-interests">
+<li> Macroeconomía  {{< staticref "uploads/Guia-Docente-901028-Macroeconomia-Linea-2.pdf" "newtab" >}} (Guía docente){{< /staticref >}}</li>
+<li> Producción, paro e inflación {{< staticref "uploads/Guia-Docente-503026-Linea1-Produccion-Paro-Inflacion.pdf" "newtab" >}} (Guía docente){{< /staticref >}}</li>
+<li> Aula Abierta a Mayores (<a href="http://upo.es/aula-mayores">web</a>)</li>
+</ul>
+</div>
+</div>
