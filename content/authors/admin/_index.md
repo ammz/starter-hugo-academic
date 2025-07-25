@@ -36,11 +36,11 @@ Carlos Usabiaga is a Full Professor of Economics at the *Department of Economics
 
 More specifically, among other topics, he have worked on unemployment, active labour market policies, labour reforms, labour matching, matching function, Beveridge curve, economic growth, Okun law, inflation, wages, Phillips curve, Spanish and Andalusian economies, regional economics, macroeconomic thought, economic methodology.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/2022-2-Brief-CV.pdf" "newtab" >}}resumé/CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/2025-Brief-CV.pdf" "newtab" >}}resumé/CV{{< /staticref >}}.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/2022-2-Recent-Publications.pdf" "newtab" >}}recent publications{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/2025-Recent-Publications.pdf" "newtab" >}}recent publications{{< /staticref >}}.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/2022-2-Selected-Publications.pdf" "newtab" >}}selected publications{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/2025-Selected-Publications.pdf" "newtab" >}}selected publications{{< /staticref >}}.
 
 * {{< icon name="ideas-repec" pack="ai" >}}[IDEAS](https://ideas.repec.org/e/pus10.html)
 * {{< icon name="researchgate" pack="ai" >}}[ResearchGate](https://www.researchgate.net/profile/Carlos-Usabiaga)
@@ -53,8 +53,8 @@ More specifically, among other topics, he have worked on unemployment, active la
 <div class="col-md-12">
 <h3>Teaching</h3>
 <ul class="ul-interests">
-<li> Macroeconomía  {{< staticref "uploads/Guia-Docente-901028-Macroeconomia-Linea-2.pdf" "newtab" >}} (Guía docente){{< /staticref >}}</li>
-<li> Producción, paro e inflación {{< staticref "uploads/Guia-Docente-503026-Linea1-Produccion-Paro-Inflacion.pdf" "newtab" >}} (Guía docente){{< /staticref >}}</li>
+<li> Macroeconomía  {{< staticref "uploads/Guia-Docente-Macroeconomia-Linea-2-2025-2026.pdf" "newtab" >}} (Guía docente){{< /staticref >}}</li>
+<li> Producción, paro e inflación {{< staticref "uploads/Guia-Docente-PI-Linea1-2025-2026.pdf" "newtab" >}} (Guía docente){{< /staticref >}}</li>
 <li> Aula Abierta a Mayores (<a href="http://upo.es/aula-mayores" target="_blank">web</a>)</li>
 </ul>
 </div>
