@@ -54,7 +54,7 @@ More specifically, among other topics, he have worked on unemployment, active la
 <h3>Teaching</h3>
 <ul class="ul-interests">
 <li> Macroeconomía  {{< staticref "uploads/Guia-Docente-Macroeconomia-Linea-2-2025-2026.pdf" "newtab" >}} (Guía docente){{< /staticref >}}</li>
-<li> Producción, paro e inflación {{< staticref "uploads/Guia-Docente-PI-Linea1-2025-2026.pdf" "newtab" >}} (Guía docente){{< /staticref >}}</li>
+<li> Producción, paro e inflación {{< staticref "uploads/Guia-Docente-PI-Linea-1-2025-2026.pdf" "newtab" >}} (Guía docente){{< /staticref >}}</li>
 <li> Aula Abierta a Mayores (<a href="http://upo.es/aula-mayores" target="_blank">web</a>)</li>
 </ul>
 </div>
